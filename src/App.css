@@ -59,6 +59,40 @@ header > img {
   border-radius: 5px;
 }
 .memeimage{
-  width: 50%;
-  height: 50%;
+  width: 600px;
+  height: 510px;
+  margin-left: 30%;
+  margin-top: 4px;
+}
+.meme--text {
+  position: absolute;
+  width: 80%;
+  text-align: center;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 15px 0;
+  padding: 0 5px;
+  font-family: impact, sans-serif;
+  font-size: 2em;
+  text-transform: uppercase;
+  color: white;
+  letter-spacing: 1px;
+  text-shadow:
+      2px 2px 0 #000,
+      -2px -2px 0 #000,
+      2px -2px 0 #000,
+      -2px 2px 0 #000,
+      0 2px 0 #000,
+      2px 0 0 #000,
+      0 -2px 0 #000,
+      -2px 0 0 #000,
+      2px 2px 5px #000;
+}
+
+.bottom {
+  bottom: 0;
+}
+
+.top {
+  top:0;
 }
