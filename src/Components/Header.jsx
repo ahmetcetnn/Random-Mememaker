@@ -5,7 +5,7 @@ function Header() {
     <header className="header">
       <img
         src="http://www.pngall.com/wp-content/uploads/2016/05/Trollface.png"
-        alt="Troll Face"
+        alt="Troll Face1"
       />
 
       <h2 className="header--title">Meme Generator </h2>

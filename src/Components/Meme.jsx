@@ -65,5 +65,5 @@ function Meme() {
     </main>
   );
 }
-
+//yıldım
 export default Meme;
